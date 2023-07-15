@@ -1,7 +1,7 @@
 
 # Periodic-table
 
-This is a periodic tabel it was created by using
+This is a periodic tabel it was created by using Grid and Animation with Responsive website
 
 
 ## Frontend
