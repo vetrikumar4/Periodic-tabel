@@ -17,7 +17,7 @@ This is a periodic tabel it was created by using Grid and Animation with Respons
 
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+
 
 ## Screenshots
 
