@@ -22,5 +22,5 @@ This is a periodic tabel it was created by using Grid and Animation with Respons
 
 ## Screenshots
 
-![Periodic_tabel](https://github.com/vetrikumar4/Periodic-tabel/assets/46168078/f85122fc-4fee-4331-aaf1-5ccb340dac6d)
+![periodictabel](https://github.com/WebDevSimplified/Nodejs-Passport-Login/assets/46168078/e078d442-8f49-4be2-a8b3-c2498e6ef498)
 
