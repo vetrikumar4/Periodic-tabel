@@ -14,7 +14,6 @@ This is a periodic tabel it was created by using Grid and Animation with Respons
 ## Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🔗 Links
